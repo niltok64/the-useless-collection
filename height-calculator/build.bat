@@ -1,3 +1,4 @@
+@ECHO OFF
 ECHO BUILDING
 MKDIR done
 pip install pyinstaller
