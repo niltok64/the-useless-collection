@@ -1,4 +1,4 @@
-[The Useless Collection logo](icon.png)
+![The Useless Collection logo](icon.png)
 A collection of software that serve no purpose other than waste your time. Forking is encouraged!
 
 Requires Python 3.9 for building.
