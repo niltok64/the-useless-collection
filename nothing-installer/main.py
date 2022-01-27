@@ -1,4 +1,4 @@
-# by mink64
+# by imsad2
 # a parody of installation wizards
 from guizero import *
 
