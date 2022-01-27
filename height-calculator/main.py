@@ -1,3 +1,4 @@
-import time
-height = input("Please input your height in cm: ")
-print("Your height is " + height + "cm!")
+from guizero import *
+
+app = App(title="Height Calculator")
+app.display()
